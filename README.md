@@ -1,5 +1,7 @@
-## Hello Word 👋,
+## Hello World, I'm  👋
+
 > If debugging is the process of removing bugs, the programming is the process of putting them in 🙃
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiam99&layout=compact)
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
