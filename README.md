@@ -1,8 +1,8 @@
-## Hello World ! It's Mathiam 👋
+## Hello World ! It's Mathiam 🛰️
 
-> "If debugging is the process of removing bugs then programming is the process of putting them in". 🙃
+> "If debugging is the process of removing bugs then programming is the process of putting them in". 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiam99)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiam99&layout=compact))
 
 ### Languages 
 
